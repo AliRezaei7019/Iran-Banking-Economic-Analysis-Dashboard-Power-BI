@@ -58,7 +58,8 @@ This repository provides a detailed overview of a **Banking & Economic Analysis 
 2. Navigate between pages using tabs: *Liquidity*, *Macroeconomics*, *Bank Comparisons*.
 3. Use filters to explore specific timeframes, banks, or indicators.
 
-
+### Bank Comparisons
+![Bank Comparisons](assets/screenshot-banks.png)
 
 
 ---
