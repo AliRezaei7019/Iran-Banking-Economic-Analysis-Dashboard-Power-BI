@@ -44,7 +44,7 @@ This repository provides a detailed overview of a **Banking & Economic Analysis 
 ---
 
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 - **Power BI** for dashboarding & visualization
 - **Excel/SQL** for preprocessing and data modeling
 - Data: simulated/aggregated datasets reflecting Iranian banking & economy
