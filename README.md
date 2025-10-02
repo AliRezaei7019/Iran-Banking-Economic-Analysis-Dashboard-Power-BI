@@ -65,6 +65,6 @@ This repository provides a detailed overview of a **Banking & Economic Analysis 
 ---
 
 
-## 📢 Notes
+##  Notes
 - This dashboard is intended for **educational and portfolio purposes**.
 - Data is simulated/anonymized for demonstration.
